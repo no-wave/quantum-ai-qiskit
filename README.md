@@ -23,44 +23,76 @@
 ## 목 차
 
 저자 소개
+
 Table of Contents (목차)
+
 서문: 들어가며
+
 프롤로그: Quantum Computing — 수학적 기초
 
+
 Part 1. QML(Quantum Machine Learning) 들어가기 전에
+
 Chapter 1 — 양자 컴퓨팅 입문
+
 Chapter 2 — Qiskit 개발 환경 설정
+
 Chapter 3 — 머신러닝 핵심 복습
 
+
 Part 2. 양자 신경망(Quantum Neural Networks)
+
 Chapter 4 — 양자 신경망의 기초
+
 Chapter 5 — 양자 신경망 분류기와 회귀기
+
 Chapter 6 — 실전 데이터셋으로 양자 모델 학습하기
 
+
 Part 3. 양자 커널 방법(Quantum Kernel Methods)
+
 Chapter 7 — 양자 커널의 이론과 실습
+
 Chapter 8 — 양자 커널을 이용한 비지도학습
+
 Chapter 9 — Pegasos QSVC — 대규모 데이터를 위한 양자 SVM
+
 Chapter 10 — 양자 커널 트레이너 — 커널 자체를 학습한다
 
+
 Part 4. PyTorch 하이브리드 양자-고전 모델
+
 Chapter 11 — Torch Connector — PyTorch와 양자 회로 통합
+
 Chapter 12 — 양자 GAN — 생성적 적대 신경망
 
+
 Part 5. 고급 양자 머신러닝 아키텍처
+
 Chapter 13 — 양자 합성곱 신경망 (QCNN)
+
 Chapter 14 — 양자 오토인코더 (Quantum Autoencoder)
+
 Chapter 15 — 양자 베이지안 추론 (Quantum Bayesian Inference)
 
+
 Part 6. Qiskit 운영과 최적화
+
 Chapter 16 — Qiskit 모델 저장, 로딩, 연속 학습
+
 Chapter 17 — 양자 신경망의 유효 차원 분석
+
 Chapter 18 — 양자 모델의 성능 최적화 전략
+
 Chapter 19 — 실제 양자 하드웨어에서의 실행
 
+
 Part 7. QML 종합 프로젝트
+
 Chapter 20 — 양자 ML 프로젝트
+
 Chapter 21 — 프로젝트 I : 양자 머신러닝 파이프라인 구축
+
 Chapter 22 — 프로젝트 II — PyTorch Connector 양자-고전 하이브리드
 
 에필로그 — 양자 머신러닝의 현재와 미래
